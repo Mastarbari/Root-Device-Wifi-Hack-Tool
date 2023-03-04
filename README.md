@@ -5,4 +5,4 @@ This tool working only rooted device
 pkg update
 pkg upgrade
 
-
+git clone 
